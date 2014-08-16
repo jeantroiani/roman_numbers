@@ -43,9 +43,6 @@ describe 'Roman Numerals' do
 		it '188' do 
 			expect(romans(188)).to eq "CLXXXVIII"
 		end
-	# 	it '130' do
-	# # 		expect(romans(130)).to eq "CXXX"
-	# # 	end
 		
 	end
 end
